@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+### RHINO ADDITIONS ###
+
+# Rendered Cluster Reports
+*.html
+
+## SatScanInputFiles
+**/SatScanInputFiles/
+
